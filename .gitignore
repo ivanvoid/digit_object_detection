@@ -1,0 +1,4 @@
+.getignore
+.ipynb_checkpoints/
+test
+train

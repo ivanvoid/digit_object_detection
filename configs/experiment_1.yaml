@@ -1,0 +1,4 @@
+# HW2/configs/experiment_1.yaml
+TRAIN:
+    BATCH_SIZE: 4
+    MODEL_PATH: './models/model_2.pth'
